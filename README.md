@@ -1,7 +1,6 @@
 # Ransomware-Samples
 Small collection of Ransomware organized by family.please feel free to download, analyze and reverse all the samples in this repository but please let me know the results of your investigation.
 
-
 <p align="center">
   <img src="ransomware.png" width="300" >
 </p>
